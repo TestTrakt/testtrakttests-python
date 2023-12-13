@@ -11,3 +11,4 @@ Looking to validate your Smart TV and Gaming platform web apps in the earliest p
 4. [Playstation Automator](https://www.testtrakt.org/playstation-automator) - Playstation Test Automation - Automate your Playstation 4 or Playstation 5 consoles.
 5. [LG Automator](https://www.testtrakt.org/lg-automator) - LG webOS Test Automation - Automate your LG webOS Television.
 6. [Sky TV Automator](https://www.testtrakt.org/sky-tv-automator) - Sky TV Test Automation - Automate your Sky TV Television.
+7. [Roku Automator](https://www.testtrakt.org/roku-automator) - Roku Test Automation - Automate your Roku Television.
